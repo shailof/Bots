@@ -14,43 +14,16 @@ Bot lain yaitu bot pada game Counter Strike - Global Offensive. terdapat tingkat
 
 Tahun 2017 dunia Esport dikejutkan dengan sebuah bot yang mengalahkan pemain game professional pada ajang Internationals Dota 2 2017. Bot tersebut bersalah dari proyek Open-AI milik elon musk, bot itu mengalahkan salah satu pemain professional dota2 Danylo "Dendi" Ishutin dengan mode 1vs1 mid dengan hero Shadow Fiend. "bot itu sedikit terasa seperti manusia", kata dendi "tapi pada saat yang sama , sesuatu yang lain". Dota2 adalah sebuah game yang sangat kompleks , namun bot ini bisa memainkan dota2 dengan sangat baik meskipun hanya untuk mode 1 lawan 1.Pada awalnya bot ini hanya diberi perintah perintah sederhana seperti 'mati itu jelek', 'lash hit itu bagus', 'terkena damage itu jelek', lalu bot ini dilatih dengan melawan dirinya sendiri ribuan kali selama 2 minggu, bot akan melakukan hal hal secara random dan mencoba banyak hal lalu melakukan penilaian apakah hal tersebut baik atau tidak lalu mencatatnya. Pembuat bot ini mengatakan bahwa tahun depan bot ini sudah bisa memainkan dota 2 dalam mode 5 lawan 5 dan siap berkompetisi melawan pemain profesional.
 
-![Elon's Tweet](/assets/img/elon.png)
+### Tweet dari elon musk setelah OpenAI nya mengalahkan Dendi 
+
+> OpenAI first ever to defeat world's best players in competitive eSports. Vastly more complex than traditional board games like chess & Go.
+>
+> Elon Musk, 5:15 PM - 11 Aug 2017
+> https://twitter.com/elonmusk/status/896163163581825025
 
 Bot pada contoh diatas tentu saja memiliki kelebihan dibandung manusia, contohnya bot tersebut bisa memperoses banyak hal sekaligus yang mungkin sulit dilakukan oleh manusia , bot bisa melihat map jauh lebih teliti dibanding manusia, dan juga bot tidak bisa merasa marah dan kesal yang tentu saja normal untuk manusia dalam bermain game. Namun kabar baiknya adalah setelah bot itu bisa dimainkan oleh umum, bot itu telah dikalahkan beberapa kali oleh para pemain dota2 diseluruh dunia, seperti arteezy dan black. hal ini menunjukan bahwa bot masih memiliki kelemahan dan masih bisa kalahkan. Keberadaan bot tersebut sebenarnya juga bisa menjadi ajang bagi para pemain dota2 untuk belajar dari bot tersebut, seperti yang dikabarkan setelah para pemain dota2 dengan mmr diatas 8k bermain dengan bot tersebut mereka melihat replay dan mulai mengikuti pergerakan bot yang mereka anggap lebih efektif dari gerakan mereka.
 
 Tahun ini pada international 2018 bot akan bisa memainkan mode 5 lawan 5 dan akan dilombakan dengan para profesional, tentu saja ini akan sangat berbeda dibanding dengan mode 1 lawan 1 yang lebih mengutamakan skill individu. pada mode 5 lawan 5, hero yang dipilih , item yang digunakan, dan strategi yang digunakan akan sangat memengaruhi permainan. Apakah nantinya strategi strategi yang sudah ada akan digantikan oleh strategi yang dibuat oleh bot tersebut ? atau strategi para  pemain bisa mengalahkan bot tersebut? Yang jelas setelah kompetisi internasional tahun ini strategi dalam memainkan game Dota2 akan berubah. Bot akan belajar strategi dari para pemain dan juga sebaliknya. mungkin nantinya hanya akan ada beberapa strategi yang dinilai absolut dan saling mengalahkan satu sama lain seperti konsep batu, kertas, dan gunting. strategi-strategi tersebut nantinya akan menunggu untuk dilampaui lagi oleh strategi-strategi baru dari para pemain ataupun bot.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ```
 The final element.
